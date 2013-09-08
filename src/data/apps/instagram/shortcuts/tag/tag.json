@@ -1,1 +1,0 @@
-{"name":"By Tag","description":"Search Instagram by a tag to display the latest images with that tag","id":"tag","action":"instagram://tag?name={{tag}}","custom":{"tag":{"type":"text","customid":"tag","label":"Tag","help":"Enter a tag such as 'scenery' to see loads of beautiful scenic shots"}}}

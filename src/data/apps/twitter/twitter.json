@@ -1,1 +1,0 @@
-{"protocol":"twitter","name":"Twitter","imageURL":"/img/app-icons/twitter-175x175.jpg","shortcuts":{"tweet":{"name":"Tweet","description":"Quickly tweet in one click","id":"tweet","action":"twitter://post?message="}},"id":"twitter"}
