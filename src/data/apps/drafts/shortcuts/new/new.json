@@ -1,0 +1,1 @@
+{"name":"New","description":"Create a new Draft","id":"new","action":"drafts://x-callback-url/create?text="}

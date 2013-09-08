@@ -1,0 +1,1 @@
+{"protocol":"drafts","name":"Drafts","imageURL":"/img/app-icons/drafts-175x175.jpg","shortcuts":{"new":{"name":"New","description":"Create a new Draft","id":"new","action":"drafts://x-callback-url/create?text="}},"id":"drafts","appstore":"https://itunes.apple.com/us/app/drafts/id502385074?mt=8"}

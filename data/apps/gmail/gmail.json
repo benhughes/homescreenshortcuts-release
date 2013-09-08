@@ -1,0 +1,1 @@
+{"protocol":"googlegmail","name":"Gmail","imageURL":"/img/app-icons/gmail-175x175.jpg","shortcuts":{"compose":{"name":"Compose new email","description":"Compose a new email","id":"compose","action":"googlegmail:///co?subject=&body=&to="}},"itunes":"https://itunes.apple.com/gb/app/gmail-email-from-google/id422689480?mt=8","id":"gmail"}

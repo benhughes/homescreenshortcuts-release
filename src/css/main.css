@@ -1,0 +1,91 @@
+body {
+    padding-top: 70px;
+}
+
+
+.action {
+    padding: 10px;
+    display: inline-block;
+    background-color: rgb(103, 103, 255);
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+
+.action.actionLow {
+    background-color: transparent;
+    text-decoration: underline;
+    color: #404040;
+    padding: 5px;
+}
+
+ul.list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+ul.list>li {
+    padding:10px 20px;
+}
+ul.list>li:nth-child(odd) {
+    background-color: rgb(252, 252, 252);
+}
+
+ul.list.shortCuts {
+
+}
+ul.list.shortCuts .appName {
+    font-weight: bold;
+    font-size: 150%;
+    display: block;
+}
+
+ul.list.shortCuts ul.optionsList {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 20px;
+
+}
+ul.list.shortCuts ul.optionsList li{
+
+
+}
+ul.list.shortCuts ul.optionsList li label{
+    font-weight: bold;
+    padding-right: 5px;
+}
+ul.list.shortCuts ul.optionsList li span.help{
+    display: block;
+    font-style: italic;
+    font-size: 50%;
+}
+
+
+
+
+.header {
+    background-color: rgb(244, 244, 244);
+    padding: 10px 0px;
+}
+.header h1{
+    margin-bottom: 5px;
+    display: inline;
+}
+
+.header h3 {
+    margin: 0px;
+    color: rgb(139, 139, 139);
+}
+
+.header img.appIcon.mediumSize {
+    height: 120px;
+    border-radius: 20px;
+    margin-left: 20px;
+}
+
+
+
+
+
+
