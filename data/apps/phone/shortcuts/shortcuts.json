@@ -1,0 +1,1 @@
+{"call":{"name":"Call a number","description":"Call any number with one touch","id":"call","action":"tel:{{phonenumber}}","custom":{"phonenumber":{"type":"text","customid":"phonenumber","label":"Number","help":"The number of your friend. (don't worry, we never store numbers)"}}}}
