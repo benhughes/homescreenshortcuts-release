@@ -1,0 +1,1 @@
+{"name":"Open Starred Playlist","description":"Open your starred playlist on Spotify","id":"starred","action":"spotify:user:{{username}}:starred","custom":{"username":{"type":"text","customid":"username","label":"Username","help":"Your username"}}}
